@@ -1,0 +1,33 @@
+body {
+  background-color: antiquewhite;
+  color: blueviolet;
+}
+
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+img {
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 18px;
+  padding: 0 50px;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.link-item {
+  font-size: 20px;
+  margin: 0 30px;
+}
